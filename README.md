@@ -19,7 +19,7 @@ Are you wondering how much money you spend on coffee? At what point you have to 
 
 # Data Sourcing
 Your financial history records or if you haven’t made it, I recommend you to start your own and set sometimes to schedule your monthly evaluation. 
-For this project, the dataset which I will use is from [Kaggle](https://www.kaggle.com/datasets/bukolafatunde/personal-finance) wich a have modified a little bit. Then, the columns were made of:
+For this project, the dataset I will use is from [Kaggle](https://www.kaggle.com/datasets/bukolafatunde/personal-finance) which a have modified a little bit. Then, the columns were made of:
 -	Date
 -	Description
 -	Amount
