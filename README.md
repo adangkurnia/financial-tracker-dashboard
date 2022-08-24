@@ -32,7 +32,7 @@ For this project, the dataset which I will use is from [Kaggle](https://www.kagg
 -	Google Data Studio
 
 # Data Cleaning
-After downloading date from Kaggle, I needed to clean the data in order to perform an Exploratory data analysis. Since the data contains small number of rows and columns, I only need to do data cleaning in Google Sheets.
+After downloading dataset from Kaggle, I needed to clean the data in order to perform an Exploratory data analysis. Since the data contains small number of rows and columns, I only need to do data cleaning in Google Sheets.
 1.	Firstly, I imported data to Google Sheets and validated every type of data then change into related data type.
 2.	Checked if there is missing data. 
 3.	After that, I checked and droped if there is any duplicates data.
