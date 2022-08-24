@@ -1,6 +1,3 @@
-# financial-tracker-dashboard
-This repository contains steps to build up financial tracker dashboard using Google Data Studio.
-
 # Introduction
 
 Financial management is one of the things that is a concern in today's society. Therefore, a lot of tips and tricks have sprung up on how to manage finances effectively. There is also a proportion of expenditure based on daily needs, investment, insurance, taxes and others. However, there is a lot of barries to reach financial target especially by the people are the sandwich generation who have dependents outside themselves, lack of financial control, and low financial literacy.
