@@ -55,3 +55,6 @@ After exploring the data, I then visualized it on Google Data Studio. Checkout t
 
 # Conlcusion
 By reviewing your transactions history, hopefully it can at least help you to be more aware about your spending habits and go into the next month with more intention.
+
+# Video Tutoral
+[Link](https://www.youtube.com/watch?v=SnNcmYHO7b0)
