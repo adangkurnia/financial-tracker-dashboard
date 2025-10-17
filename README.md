@@ -33,9 +33,9 @@ For this project, the dataset I will use is from [Kaggle](https://www.kaggle.com
 
 # Data Cleaning
 After downloading dataset from Kaggle, I needed to clean the data in order to perform an Exploratory data analysis. Since the data contains small number of rows and columns, I only need to do data cleaning in Google Sheets.
-1.	Firstly, I imported data to Google Sheets and validated every type of data then change into related data type.
+1.	Firstly, import data to Google Sheets and validated every type of data then change into related data type.
 2.	Checked if there is missing data. 
-3.	After that, I checked and droped if there is any duplicates data.
+3.	After that, checked and droped if there is any duplicates data.
 4.	Deleted column ‘Account Name’ since it won’t be used for this project
 
 # Exploratroy Data Analysis
@@ -56,5 +56,5 @@ After exploring the data, I then visualized it on Google Data Studio. Checkout t
 # Conlcusion
 By reviewing your transactions history, hopefully it can at least help you to be more aware about your spending habits and go into the next month with more intention.
 
-# Video Tutoral
+# Video Tutorial
 [Link](https://www.youtube.com/watch?v=SnNcmYHO7b0)
